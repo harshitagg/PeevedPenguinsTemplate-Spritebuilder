@@ -183,8 +183,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>227.88800048828125</real>
-						<real>97.510002136230469</real>
+						<real>225.84754943847656</real>
+						<real>98.510002136230469</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -221,8 +221,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>7.8880000114440918</real>
-						<real>5.5100002288818359</real>
+						<real>5.8194327354431152</real>
+						<real>2.5100021362304688</real>
 					</array>
 				</dict>
 				<dict>
@@ -267,8 +267,6 @@
 					</array>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -455,6 +453,8 @@
 								<string>Bear.ccb</string>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>UUID</key>
@@ -672,8 +672,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>241</real>
-											<real>180.5</real>
+											<real>242</real>
+											<real>184.5</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -701,6 +701,17 @@
 											<real>1</real>
 											<false/>
 											<integer>0</integer>
+										</array>
+									</dict>
+									<dict>
+										<key>name</key>
+										<string>skew</string>
+										<key>type</key>
+										<string>FloatXY</string>
+										<key>value</key>
+										<array>
+											<real>0.6475488543510437</real>
+											<real>0.0</real>
 										</array>
 									</dict>
 									<dict>
