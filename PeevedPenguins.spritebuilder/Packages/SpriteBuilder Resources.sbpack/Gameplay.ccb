@@ -703,18 +703,7 @@
 											<integer>0</integer>
 										</array>
 									</dict>
-									<dict>
-										<key>name</key>
-										<string>skew</string>
-										<key>type</key>
-										<string>FloatXY</string>
-										<key>value</key>
-										<array>
-											<real>0.6475488543510437</real>
-											<real>0.0</real>
-										</array>
-									</dict>
-									<dict>
+								<dict>
 										<key>name</key>
 										<string>spriteFrame</string>
 										<key>type</key>
